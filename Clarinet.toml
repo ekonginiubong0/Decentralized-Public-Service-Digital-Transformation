@@ -15,11 +15,6 @@ path = 'contracts/agency-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.agency-verification_]
-path = 'contracts/agency-verification_.clar'
-clarity_version = 2
-epoch = 2.5
-
 [contracts.citizen-adoption]
 path = 'contracts/citizen-adoption.clar'
 clarity_version = 2
